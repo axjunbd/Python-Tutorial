@@ -1,5 +1,4 @@
 def reverse_string_slicing(text):
-    """Reverse a string using parsing/slicing."""
     return text[::-1]
 
 def reverse_string_loop(text):
